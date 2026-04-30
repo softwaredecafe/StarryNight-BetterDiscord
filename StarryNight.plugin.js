@@ -1,8 +1,8 @@
 /**
  * @name StarryNight
- * @author Alexandersnd
+ * @author Alexander(softwaredecafe)
  * @description Plugin BetterDiscord
- * @version 1.1.3
+ * @version 1.0.0
  */
 
 module.exports = class StarryNight {
